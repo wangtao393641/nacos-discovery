@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="nacos-restful-consumer" />
+        <module name="nacos-restful-provider" />
+        <module name="service2api" />
+        <module name="service2server" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel target="8">
+      <module name="nacos-dubbo-service1" target="1.5" />
+      <module name="nacos-dubbo-service2" target="1.5" />
+      <module name="nacos-dubbo-service2 (1)" target="1.5" />
+      <module name="service1-api" target="1.5" />
+      <module name="service1-server" target="1.5" />
+      <module name="Service2-Api" target="1.5" />
+      <module name="service2-api" target="1.5" />
+      <module name="service2-server" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="GENERATE_NO_WARNINGS" value="true" />
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="nacos-discovery" options="" />
+    </option>
+  </component>
+</project>

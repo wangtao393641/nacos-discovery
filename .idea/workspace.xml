@@ -1,0 +1,744 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e1d21f0-a690-442a-8bdb-c8e419a42f45" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/nacos‐dubbo‐service2/service2-api/target/" />
+    <ignored path="$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-restful-provider/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-restful-consumer/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-dubbo-service2/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-dubbo-service2/service2-api/target/" />
+    <ignored path="$PROJECT_DIR$/nacos-dubbo-service2/service2-server/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <splitter split-orientation="horizontal" split-proportion="0.5213592">
+      <split-first>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="858">
+                  <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="858">
+                  <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nacos-restful-consumer/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="159">
+                  <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="242">
+                  <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="418">
+                  <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+          <file leaf-file-name="Service2Bootstrap.java" pinned="false" current-in-tab="false">
+            <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/src/main/java/com/itheima/microservice/Service2Bootstrap.java">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="220">
+                  <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-first>
+      <split-second>
+        <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+          <file leaf-file-name="pom.xml" pinned="false" current-in-tab="true">
+            <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/pom.xml">
+              <provider selected="true" editor-type-id="text-editor">
+                <state relative-caret-position="352">
+                  <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+                </state>
+              </provider>
+            </entry>
+          </file>
+        </leaf>
+      </split-second>
+    </splitter>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Kotlin Class" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/src/main/java/com/itheima/microservice/service2/service/Service2ApiImpl.java" />
+        <option value="$PROJECT_DIR$/nacos‐dubbo‐service2/service2-api/src/main/java/com/itheima/microservice/service2/api/Service2Api.java" />
+        <option value="$PROJECT_DIR$/nacos-dubbo-service2/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-dubbo-service2/service2-server/src/main/java/com/itheima/microservice/Service2Bootstrap.java" />
+        <option value="$PROJECT_DIR$/nacos-dubbo-service2/service2-server/pom.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/nacos-dubbo-service2/service2-api/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="E:\repository" />
+        <option name="mavenHome" value="E:/apache-maven-3.6.1" />
+        <option name="userSettingsFile" value="E:\apache-maven-3.6.1\conf\settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="downloadDocsAutomatically" value="true" />
+        <option name="downloadSourcesAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nacos-dubbo-service2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="nacos-dubbo-service2" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+          <item name="Lifecycle" type="58874e2:MavenProjectsStructure$LifecycleNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="MavenRunner">
+    <option name="skipTests" value="true" />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="35" />
+    <option name="y" value="-20" />
+    <option name="width" value="1900" />
+    <option name="height" value="970" />
+  </component>
+  <component name="ProjectId" id="1ZdvToM5Go8jFjK5qiA8woAgJOg" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="nacos-discovery" type="b2602c69:ProjectViewProjectNode" />
+              <item name="nacos-discovery" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="ProjectViewState">
+    <option name="flattenModules" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/nacos-dubbo-service2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/nacos-dubbo-service2/service2-server/src/main/resources/bootstrap.yml" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.20574713" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\nacos-discovery\nacos-dubbo-service2\service2-server\src\main\resources" />
+      <recent name="E:\nacos-discovery\nacos-dubbo-service2\service2-server\src\main\java\com\itheima\microservice\service2\service" />
+      <recent name="E:\nacos-discovery\nacos-dubbo-service2\service2-server\src\main\java\com\itheima\microservice" />
+      <recent name="E:\nacos-discovery\nacos-dubbo-service2\service2-api\src\main\java\com\itheima\microservice\service2\api" />
+      <recent name="E:\nacos-discovery\nacos‐dubbo‐service2\service2-server\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="configurationTypes">
+      <set>
+        <option value="SpringBootApplicationConfigurationType" />
+      </set>
+    </option>
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+    <option name="contentProportion" value="0.18138261" />
+  </component>
+  <component name="RunManager" selected="Spring Boot.Service2Bootstrap (1)">
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Service2-Api" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+      <method>
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Service2Bootstrap (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service2server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.microservice.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.microservice.Service2Bootstrap" />
+    </configuration>
+    <configuration name="Service2Bootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="service2-server" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.microservice.service2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.microservice.service2.Service2Bootstrap" />
+    </configuration>
+    <configuration name="SpringRestConsumerBootstrap" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="nacos-restful-consumer" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.itheima.nacos.consumer.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.itheima.nacos.consumer.SpringRestConsumerBootstrap" />
+    </configuration>
+    <list>
+      <item itemvalue="Spring Boot.SpringRestConsumerBootstrap" />
+      <item itemvalue="Spring Boot.Service2Bootstrap" />
+      <item itemvalue="Spring Boot.Service2Bootstrap (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Spring Boot.Service2Bootstrap (1)" />
+        <item itemvalue="Spring Boot.Service2Bootstrap" />
+        <item itemvalue="Spring Boot.SpringRestConsumerBootstrap" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpringConfigurationTabSettings">
+    <option name="sortAlpha" value="true" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e1d21f0-a690-442a-8bdb-c8e419a42f45" name="Default Changelist" comment="" />
+      <created>1585181795650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585181795650</updated>
+      <workItem from="1585181798628" duration="796000" />
+      <workItem from="1585182599159" duration="14000" />
+      <workItem from="1585182638242" duration="1497000" />
+      <workItem from="1585184147871" duration="10998000" />
+      <workItem from="1585198966403" duration="103000" />
+      <workItem from="1585199097498" duration="175000" />
+      <workItem from="1585199277712" duration="194000" />
+      <workItem from="1585199589404" duration="9000" />
+      <workItem from="1585218826947" duration="1026000" />
+      <workItem from="1585219871394" duration="823000" />
+      <workItem from="1585220811569" duration="456000" />
+      <workItem from="1585233379155" duration="8554000" />
+      <workItem from="1585286377915" duration="2100000" />
+      <workItem from="1585288498787" duration="988000" />
+      <workItem from="1585289500776" duration="482000" />
+      <workItem from="1585289987822" duration="324000" />
+      <workItem from="1585290314051" duration="31000" />
+      <workItem from="1585290347405" duration="94000" />
+      <workItem from="1585290445952" duration="66000" />
+      <workItem from="1585290514375" duration="78000" />
+      <workItem from="1585290596357" duration="1494000" />
+      <workItem from="1585292098200" duration="838000" />
+      <workItem from="1585293041766" duration="374000" />
+      <workItem from="1585293419334" duration="481000" />
+      <workItem from="1585293910124" duration="2839000" />
+      <workItem from="1585305071649" duration="1013000" />
+      <workItem from="1585307585020" duration="4396000" />
+      <workItem from="1585312766183" duration="237000" />
+      <workItem from="1585313007567" duration="112000" />
+      <workItem from="1585313123606" duration="88000" />
+      <workItem from="1585313215578" duration="52000" />
+      <workItem from="1585313270150" duration="13000" />
+      <workItem from="1585313285560" duration="51000" />
+      <workItem from="1585313339088" duration="28000" />
+      <workItem from="1585313372110" duration="74000" />
+      <workItem from="1585313449165" duration="2304000" />
+      <workItem from="1585315790784" duration="968000" />
+      <workItem from="1585319668214" duration="2362000" />
+      <workItem from="1585366851189" duration="599000" />
+      <workItem from="1585367454068" duration="676000" />
+      <workItem from="1585371746659" duration="1465000" />
+      <workItem from="1585373230899" duration="679000" />
+      <workItem from="1585373920141" duration="202000" />
+      <workItem from="1585374128009" duration="233000" />
+      <workItem from="1585374363679" duration="144000" />
+      <workItem from="1585374511852" duration="108000" />
+      <workItem from="1585374625100" duration="332000" />
+      <workItem from="1585374964835" duration="958000" />
+      <workItem from="1585375931879" duration="637000" />
+      <workItem from="1585376576368" duration="655000" />
+      <workItem from="1585377243234" duration="4792000" />
+      <workItem from="1585382095512" duration="612000" />
+      <workItem from="1585382734070" duration="1551000" />
+      <workItem from="1585384333326" duration="1174000" />
+      <workItem from="1585385553685" duration="386000" />
+      <workItem from="1585386618397" duration="3681000" />
+      <workItem from="1585390363118" duration="3482000" />
+      <workItem from="1585401560749" duration="2816000" />
+      <workItem from="1585404507734" duration="1806000" />
+      <workItem from="1585406330575" duration="4662000" />
+      <workItem from="1585446556675" duration="1340000" />
+      <workItem from="1585464714353" duration="4256000" />
+      <workItem from="1585831701434" duration="93000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="11076000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-7" y="-7" width="1550" height="838" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="7" side_tool="true" />
+      <window_info anchor="right" id="Maven Projects" order="3" visible="true" weight="0.2647453" />
+      <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="2" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info id="UI Designer" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="bottom" id="Java Enterprise" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="3" />
+      <window_info anchor="bottom" id="Run Dashboard" order="7" weight="0.33190882" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.6168091" />
+      <window_info anchor="bottom" id="Spring" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="7" visible="true" weight="0.2735043" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2707775" />
+      <window_info anchor="right" id="Bean Validation" order="3" weight="0.32968536" />
+      <window_info id="Web" order="2" side_tool="true" />
+      <window_info anchor="right" id="Theme Preview" order="3" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Messages" order="7" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="361" y="71" key="#Inspections" timestamp="1585182037780">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="361" y="71" key="#Inspections/0.0.1536.824@0.0.1536.824" timestamp="1585182037780" />
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1585182842874">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="223" y="67" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.824@0.0.1536.824" timestamp="1585182842874" />
+    <state x="322" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog" timestamp="1585187988555">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="322" y="337" key="#com.intellij.refactoring.move.MoveHandler.SelectRefactoringDialog/0.0.1536.824@0.0.1536.824" timestamp="1585187988555" />
+    <state x="628" y="198" key="FileChooserDialogImpl" timestamp="1585404196432">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="628" y="198" key="FileChooserDialogImpl/0.0.1536.824@0.0.1536.824" timestamp="1585404196432" />
+    <state width="811" height="323" key="GridCell.Tab.0.bottom" timestamp="1585220672329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="811" height="323" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585220672329" />
+    <state width="811" height="323" key="GridCell.Tab.0.center" timestamp="1585220672329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="811" height="323" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1585220672329" />
+    <state width="811" height="323" key="GridCell.Tab.0.left" timestamp="1585220672329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="811" height="323" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1585220672329" />
+    <state width="811" height="323" key="GridCell.Tab.0.right" timestamp="1585220672329">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="811" height="323" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1585220672329" />
+    <state width="857" height="469" key="GridCell.Tab.1.bottom" timestamp="1585198962592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="857" height="469" key="GridCell.Tab.1.bottom/0.0.1536.824@0.0.1536.824" timestamp="1585198962592" />
+    <state width="857" height="469" key="GridCell.Tab.1.center" timestamp="1585198962591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="857" height="469" key="GridCell.Tab.1.center/0.0.1536.824@0.0.1536.824" timestamp="1585198962591" />
+    <state width="857" height="469" key="GridCell.Tab.1.left" timestamp="1585198962591">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="857" height="469" key="GridCell.Tab.1.left/0.0.1536.824@0.0.1536.824" timestamp="1585198962591" />
+    <state width="857" height="469" key="GridCell.Tab.1.right" timestamp="1585198962592">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="857" height="469" key="GridCell.Tab.1.right/0.0.1536.824@0.0.1536.824" timestamp="1585198962592" />
+    <state x="43" y="109" width="1493" height="715" key="SettingsEditor" timestamp="1585404201097">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="43" y="109" width="1493" height="715" key="SettingsEditor/0.0.1536.824@0.0.1536.824" timestamp="1585404201097" />
+    <state x="636" y="96" key="SpringBootCustomization" timestamp="1585404199392">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="636" y="96" key="SpringBootCustomization/0.0.1536.824@0.0.1536.824" timestamp="1585404199392" />
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1585220820082">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="449" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1585220820082" />
+    <state x="178" y="107" key="new project wizard" timestamp="1585183181651">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="178" y="107" key="new project wizard/0.0.1536.824@0.0.1536.824" timestamp="1585183181651" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/src/main/java/com/itheima/microservice/Service2Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-restful-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="24" column="42" lean-forward="true" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="748">
+          <caret line="34" lean-forward="true" selection-start-line="34" selection-end-line="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="594">
+          <caret line="27" column="20" lean-forward="true" selection-start-line="27" selection-start-column="20" selection-end-line="27" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" selection-start-line="14" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="10" lean-forward="true" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/src/main/java/com/itheima/microservice/Service2Bootstrap.java" />
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/src/main/java/com/itheima/microservice/service2/service/Service2ApiImpl.java" />
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-api/src/main/java/com/itheima/microservice/service2/api/Service2Api.java" />
+    <entry file="file://$PROJECT_DIR$/nacos-restful-consumer/src/main/java/com/itheima/nacos/consumer/SpringRestConsumerBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="168">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-restful-provider/src/main/java/com/itheima/nacos/provider/controller/RestProviderController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-restful-provider/src/main/java/com/itheima/nacos/provider/SpringRestProviderBootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/src/main/resources/bootstrap.yml" />
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/src/main/java/com/itheima/microservice/service2/service/Service2ApiImpl.java" />
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-api/src/main/java/com/itheima/microservice/service2/api/Service2Api.java" />
+    <entry file="file://$PROJECT_DIR$/nacos‐dubbo‐service2/service2-server/src/main/java/com/itheima/microservice/Service2Bootstrap.java" />
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/src/main/java/com/itheima/microservice/service2/service/Service2ApiImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/src/main/java/com/itheima/microservice/service2/api/Service2Api.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="176">
+          <caret line="8" lean-forward="true" selection-start-line="8" selection-end-line="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/src/main/java/com/itheima/microservice/Service2Bootstrap.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="11" column="10" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/service2-server/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="19" selection-start-line="39" selection-start-column="19" selection-end-line="39" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="858">
+          <caret line="39" column="27" selection-start-line="39" selection-start-column="27" selection-end-line="39" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-restful-consumer/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="24" column="42" selection-start-line="24" selection-start-column="42" selection-end-line="24" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/nacos-dubbo-service2/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" column="14" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring|service2server</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.20574713" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: ch.qos.logback:logback-classic:1.2.3</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
